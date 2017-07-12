@@ -1,0 +1,15 @@
+{
+  "name": "ejer1ajaxpromises",
+  "version": "1.0.0",
+  "description": "ejercicio \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dprimer ejercicio usando ajax y promesas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
